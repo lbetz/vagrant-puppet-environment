@@ -1,2 +1,2 @@
 # vagrant-puppet-environment
-An Environment for vagrant boxes with puppet
+An Environment for vagrant boxes with puppet.
